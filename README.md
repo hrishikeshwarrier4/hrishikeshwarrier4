@@ -102,17 +102,19 @@
 ## 📊 Projects
 
 ### **Iowa Liquor Sales Analysis**
-- Analyzed a dataset of 26 million records using Alteryx and Power BI, providing insights on sales trends and helping drive data-backed business decisions. [See the project here](#).
+- Analyzed a dataset of 26 million records using Alteryx and Power BI, providing insights on sales trends and helping drive data-backed business decisions.
 
 ### **AI TaxMate: Tax Chatbot**
-- Developed an AI-powered chatbot using GPT-3.5 for tax consultation, achieving a 40% efficiency increase. Integrated Chroma vector databases and a Streamlit UI to enhance user experience. [Explore it here](#).
+- Developed an AI-powered chatbot using GPT-3.5 for tax consultation, achieving a 40% efficiency increase. Integrated Chroma vector databases and a Streamlit UI to enhance user experience. [Explore it here](https://github.com/hrishikeshwarrier4/taxmate).
 
 ### **Real-Time Voting System**
-- Built a scalable voting system using Apache Spark Streaming, Kafka, and Postgres, deployed with Docker for real-time vote aggregation and analysis. [View the code here](#).
+- Built a scalable voting system using Apache Spark Streaming, Kafka, and Postgres, deployed with Docker for real-time vote aggregation and analysis. [View the code here](https://github.com/hrishikeshwarrier4/realtime-voting-system).
 
 ### **Traffic Sign Recognition**
-- Achieved 95% accuracy using CNNs on a traffic sign recognition project. Explored various ML models and transfer learning techniques to optimize performance. [Check it out here](#).
+- Achieved 95% accuracy using CNNs on a traffic sign recognition project. Explored various ML models and transfer learning techniques to optimize performance.
 
-<img src="https://raw.githubusercontent.com/hrishikeshwarrier4/hrishikeshwarrier4/output/snake.svg" alt="Snake animation" />
+### **Lululemon Stock Analysis**
+- Led a team of 6 to analyze Lululemon's stock, improving prediction accuracy by 15% and increasing successful trades by 20%. [See the project here](https://github.com/gauripatole/Lululemon_Portfolio_Management_ML_Fintech) .
 
-###
+
+

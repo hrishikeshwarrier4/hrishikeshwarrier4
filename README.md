@@ -8,13 +8,17 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/e1DQhrDO2pD.gif" alt="man coding gif" width="480" height="270" />
+  <img src="https://github.com/hrishikeshwarrier4/hrishikeshwarrier4/blob/main/gitreadme_gif.gif" alt="man coding gif" width="480" height="270" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hrishikeshwarrier" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrishikeshwarrier" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:warrier.h@northeastern.edu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 

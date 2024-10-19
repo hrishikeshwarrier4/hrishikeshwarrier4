@@ -18,7 +18,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:warrier.h@northeastern.edu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Email.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://github.com/hrishikeshwarrier4/hrishikeshwarrier4/blob/main/gitradme_email.gif" alt="Email" height="50" width="55" />
   </a>
 </p>
 

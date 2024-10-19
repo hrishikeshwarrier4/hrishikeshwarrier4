@@ -112,3 +112,7 @@
 
 ### **Traffic Sign Recognition**
 - Achieved 95% accuracy using CNNs on a traffic sign recognition project. Explored various ML models and transfer learning techniques to optimize performance. [Check it out here](#).
+
+<img src="https://raw.githubusercontent.com/hrishikeshwarrier4/hrishikeshwarrier4/output/snake.svg" alt="Snake animation" />
+
+###

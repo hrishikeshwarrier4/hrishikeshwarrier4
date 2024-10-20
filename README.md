@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=hrishikeshwarrier4&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshwarrier4" />
 </p>
 
-
-[![Profile Views](https://github-readme-stats.vercel.app/api?username=HrishikeshWarrier&show_icons=true&theme=radical)](https://github.com/hrishikeshwarrier4)
-
-
 <p align="center">
   <img src="https://github.com/hrishikeshwarrier4/hrishikeshwarrier4/blob/main/gitreadme_gif.gif" alt="man coding gif" width="480" height="270" />
 </p>

@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hrishikesh Warrier</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=linuxlibertine&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hrishikesh+Warrier!;" />
+</h1>
 <h3 align="center">Data Analyst | Data Engineer | Machine Learning Enthusiast</h3>
 
 <p align="center">Welcome to my GitHub! I am a Data Analyst with over 3 years of experience in transforming complex data into actionable insights. I specialize in advanced analytics, machine learning, and data visualization, with a strong background in data engineering. I am passionate about driving business value through data-driven solutions and optimizing strategies for better decision-making.</p>
@@ -6,6 +8,10 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hrishikeshwarrier4&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshwarrier4" />
 </p>
+
+
+[![Profile Views](https://github-readme-stats.vercel.app/api?username=HrishikeshWarrier&show_icons=true&theme=radical)](https://github.com/hrishikeshwarrier4)
+
 
 <p align="center">
   <img src="https://github.com/hrishikeshwarrier4/hrishikeshwarrier4/blob/main/gitreadme_gif.gif" alt="man coding gif" width="480" height="270" />

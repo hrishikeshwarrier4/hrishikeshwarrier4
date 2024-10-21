@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,postgres,docker,aws,gcp,azure,elasticsearch,kafka,spark,pbi,tableau,kibana" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,postgres,docker,aws,gcp,azure,elasticsearch,kafka,spark,pbi,tableau,streamlit,chatgpt,snowflake" />
   </a>
 </p>
 
@@ -52,10 +52,10 @@
 - Data Preprocessing & Statistical Analysis
 
 ### **Data Visualization**
-- Tableau, Power BI, Grafana, Excel
+- Tableau, Power BI, Kibana, Excel
 
 ### **ETL & Data Analytics**
-- Apache Airflow, Alteryx, SSIS, Apache Kafka
+- Apache Airflow, Alteryx, SSIS, Apache Kafka, Talend
 
 ### **Cloud Platforms**
 - AWS, Azure, GCP, Snowflake

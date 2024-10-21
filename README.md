@@ -117,7 +117,7 @@
 - Achieved 95% accuracy using CNNs on a traffic sign recognition project. Explored various ML models and transfer learning techniques to optimize performance.
 
 ### **Lululemon Stock Analysis**
-- Led a team of 6 to analyze Lululemon's stock, improving prediction accuracy by 15% and increasing successful trades by 20%. [See the project here](https://github.com/gauripatole/Lululemon_Portfolio_Management_ML_Fintech) .
+- Led a team of 6 to analyze Lululemon's stock, improving prediction accuracy by 15% and increasing successful trades by 20%. [See the project here](https://github.com/hrishikeshwarrier4/Lululemon_Portfolio_Management_ML_Fintech) .
 
 
 

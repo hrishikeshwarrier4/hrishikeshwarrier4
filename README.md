@@ -14,6 +14,8 @@
 </p>
 
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hrishikeshwarrier" target="blank">
@@ -73,7 +75,6 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshwarrier4&show_icons=true&locale=en&layout=compact" alt="hrishikeshwarrier4" /></p>
 
 ## 🚀 About Me
 
@@ -119,4 +120,8 @@
 - Led a team of 6 to analyze Lululemon's stock, improving prediction accuracy by 15% and increasing successful trades by 20%. [See the project here](https://github.com/gauripatole/Lululemon_Portfolio_Management_ML_Fintech) .
 
 
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikeshwarrier4&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 

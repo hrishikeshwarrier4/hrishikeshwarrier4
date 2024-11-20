@@ -40,7 +40,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently Working On**: Analyzing customer data at [Epsilon](https://www.epsilon.com/) to optimize marketing strategies and improve customer segmentation.
-- 📈 **Recent Project**: Developed AI-based chatbot for tax consultation, leveraging GPT-3.5 and a vector database to enhance document processing efficiency.
+- 📈 **Recent Project**: Developed an AI-powered chatbot called [QueryLens](https://github.com/hrishikeshwarrier4/querylens) for conversational data analytics. Integrated LangChain, Plotly, and Streamlit to allow users to query data in natural language and generate interactive visualizations automatically. Enhanced multi-step query handling with contextual memory and hybrid Python-SQL agent workflows.
 - 🎓 **Education**: Master of Science in Information Systems from Northeastern University (2024) and a Bachelor's in Electronics Engineering.
 - 🌱 **Learning & Interests**: Continuously exploring new advancements in data engineering and machine learning.
 
@@ -64,6 +64,13 @@
 - Critical Thinking, Communication, Problem-Solving, Attention to Detail
 
 ## 📊 Projects
+
+### **QueryLens: AI-Powered Analytics Chatbot**
+Built a conversational analytics tool that bridges the gap between natural language queries and data-driven insights.
+- Combined SQL and Python agents to process queries and generate visualizations.
+- Incorporated LangChain for contextual query memory and Plotly for interactive visuals.
+- Deployed using Streamlit, providing a seamless user interface.
+  [Explore QueryLens Code](https://github.com/hrishikeshwarrier4/querylens)
 
 ### **Iowa Liquor Sales Analysis**
 - Analyzed a dataset of 26 million records using Alteryx and Power BI, providing insights on sales trends and helping drive data-backed business decisions.

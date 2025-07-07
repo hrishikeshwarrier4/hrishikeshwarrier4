@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=linuxlibertine&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hrishikesh+Warrier!;" />
 </h1>
-<h3 align="center">Data Analyst | Data Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst | Data Engineer | Palantir Foundry Architect</h3>
 
-<p align="center">Welcome to my GitHub! I am a Data Analyst with 2 years of experience in transforming complex data into actionable insights. I specialize in advanced analytics, machine learning, and data visualization, with a strong background in data engineering. I am passionate about driving business value through data-driven solutions and optimizing strategies for better decision-making.</p>
+<p align="center">Welcome to my GitHub! I am a Data Analyst experienced in transforming complex data into actionable insights. I specialize in advanced analytics, machine learning, and data visualization, with a strong background in data engineering. I am passionate about driving business value through data-driven solutions and optimizing strategies for better decision-making.</p>
 
 
 ## 🚀 About Me

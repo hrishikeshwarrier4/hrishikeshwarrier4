@@ -1,6 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=linuxlibertine&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hrishikesh+Warrier!;" />
 </h1>
+
+<p align="center">
+  <img src="https://github.com/hrishikeshwarrier4/hrishikeshwarrier4/blob/main/gitreadme_gif.gif" alt="man coding gif" width="480" height="270" />
+</p>
+
+
 <h3 align="center">Data Analyst | Data Engineer | Palantir Foundry Architect</h3>
 
 <p align="center">Welcome to my GitHub! I am a Data Analyst experienced in transforming complex data into actionable insights. I specialize in advanced analytics, machine learning, and data visualization, with a strong background in data engineering. I am passionate about driving business value through data-driven solutions and optimizing strategies for better decision-making.</p>
@@ -59,9 +65,7 @@ Built a conversational analytics tool that bridges the gap between natural langu
   <img src="https://komarev.com/ghpvc/?username=hrishikeshwarrier4&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikeshwarrier4" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/hrishikeshwarrier4/hrishikeshwarrier4/blob/main/gitreadme_gif.gif" alt="man coding gif" width="480" height="270" />
-</p>
+
 
 
 
@@ -99,7 +103,7 @@ Built a conversational analytics tool that bridges the gap between natural langu
 - Tableau, Power BI, Kibana, Excel
 
 ### **ETL & Data Analytics**
-- Apache Airflow, Alteryx, SSIS, Apache Kafka, Talend
+- Palantir Foundry, Apache Airflow, Alteryx, SSIS, Apache Kafka, Talend
 
 ### **Cloud Platforms**
 - AWS, Azure, GCP, Snowflake

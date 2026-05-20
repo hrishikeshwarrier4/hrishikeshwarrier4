@@ -27,7 +27,7 @@
 A Palantir Foundry application that suggests personalized meals based on user inventory, mood, and schedule.
 - Integrated 4 object sets and 4 AIP logic blocks for recipe generation, image classification, and Q&A.
 - Enabled personalized planning using roommate data and available ingredients.
-- Created a chat-based interface for real-time culinary assistance. [Explore FoodGenie](https://youtu.be/Cj1Rm57at04)
+- Created a chat-based interface for real-time culinary assistance. [Explore FoodGenie](https://github.com/hrishikeshwarrier4/food-genie-aip)(https://youtu.be/Cj1Rm57at04)
 
 ### **CRM Engagement Tracker (Palantir Foundry)**
 Built a CRM workflow in Foundry to manage client engagement and automate status tracking.
